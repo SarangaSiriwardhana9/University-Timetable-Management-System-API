@@ -1,7 +1,5 @@
 
 
-## IT21166792-Siriwardhana E.A.L.S 
-
 # University Timetable Management System API
 
 
